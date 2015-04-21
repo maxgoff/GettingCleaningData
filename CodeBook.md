@@ -65,7 +65,7 @@ There are 5 parts, per the assignment specification:
 
 ## Variable names 
 
-Variable name extracted from original dataset          |       Variable in tidy file
+Variable name extracted from original dataset          |       Variable name in tidy file
 ------------------------------------------------------ | ----------------------------------
  tBodyAcc-mean()-X                                     |       TimeBodyAcclMeanX
  tBodyAcc-mean()-Y                                     |       TimeBodyAcclMeanY
